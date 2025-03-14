@@ -10,7 +10,7 @@ At **ISR**, I worked on **complementary filter design** using the systems in `DS
 To tune the filter gains, I used the **Kalman technique**. Since some systems had nonlinearities, an **Extended Kalman Filter (EKF)** was applied.  
 
 ## SG Control Project  
-In **SG Control**, I worked on an **MPC controller** for flight control of the next **Técnico Solar Boat vessel, SG01**.  
+In **SG Control**, I worked on a **MPC controller** for flight control of the next **Técnico Solar Boat vessel, SG01**.  
 
 ## Bachelor's Final Project (`PIC_Group_04_BUSY_FinalReport`)  
 For my **bachelor's final project**, I helped design an **autonomous vehicle for a dedicated lane** as part of an **8-member team**.  
