@@ -1,0 +1,6 @@
+[submodule "ISR"]
+	path = ISR
+	url = https://github.com/FNR13/ISR.git
+[submodule "Controlo-SG"]
+	path = Controlo-SG
+	url = https://github.com/FNR13/Controlo-SG.git
