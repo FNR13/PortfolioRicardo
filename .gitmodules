@@ -4,3 +4,6 @@
 [submodule "Controlo-SG"]
 	path = Controlo-SG
 	url = https://github.com/FNR13/Controlo-SG.git
+[submodule "Control-of-an-inverted-pendulum"]
+	path = Control-of-an-inverted-pendulum
+	url = https://github.com/FNR13/Control-of-an-inverted-pendulum.git

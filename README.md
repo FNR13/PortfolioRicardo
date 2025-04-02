@@ -9,6 +9,9 @@ As of **March 14, 2025**, I haven’t completed my master's thesis yet, as I’m
 At **ISR**, I worked on **complementary filter design** using the systems in `DSOR_meeting_filters`.  
 To tune the filter gains, I used the **Kalman technique**. Since some systems had nonlinearities, an **Extended Kalman Filter (EKF)** was applied.  
 
+## Control of an inverted pendulum
+LQR implementation in a real inverted pendulum during Multivariable, Nonlinear and Optimal Control course.
+
 ## SG Control Project  
 In **SG Control**, I worked on a **MPC controller** for flight control of the next **Técnico Solar Boat vessel, SG01**.  
 
